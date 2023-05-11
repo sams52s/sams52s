@@ -92,11 +92,8 @@ Searching that place where I can enhance my knowledge and experience and can imp
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     </p> 
        <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    
        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png"/> </a> 
-    
        <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/> </a> 
-   
        <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png"/> </a> 
    
        
