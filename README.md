@@ -26,17 +26,15 @@ Searching that place where I can enhance my knowledge and experience and can imp
 </ul>
 </p>
 
-- 🔭 I’m currently working on **an academic thesis in Cognitive model and UI/UX with HCI area**
+- 🔭 I’m currently working on **.Net project**
 
-- 🌱 I’m currently learning **JQuery, Laravel, AngularJS, React**
+- 🌱 I’m currently learning **JS,JQuery,React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sams52s](https://github.com/sams52s)
 
-- 💬 Ask me about **C#, C&C++, Java, PHP,**
+- 💬 Ask me about **C#, .Net**
 
 - 📫 How to reach me **t101alam52@gmail.com**
-
-- ⚡ Fun fact **I love food and photography**
 
 ## <h1 style="color:#98edc4;"> Interested at:</h1> 
 - Problem solving.
@@ -48,8 +46,8 @@ Searching that place where I can enhance my knowledge and experience and can imp
 <p>
 <ul><h2 style="color:pink;"><u>B.Sc. in Computer Science & Engineering (CSE) [2019-2022]</u> </h2>
 •	American International University-Bangladesh (AIUB)<br>
-•	CGPA: 3.57<br>
-•	7th semester running out of 8 semesters<br>
+•	CGPA: 3.6<br>
+•	Graduated <br>
 <h2 style="color:pink;"><u>Higher Secondary Certificate (HSC) [2017]</u></h2>
 •	Rajshahi Collegiate College<br>
 •	Group: Science<br>
@@ -63,9 +61,9 @@ Searching that place where I can enhance my knowledge and experience and can imp
 </p>
 
 ## <h1 style="color:#98edc4;"> 🚀  Technical Skills:</h1> 
-- Mid-level: C#, C&C++, Java, PHP, CSS, HTML, Bootstrap.
-- Intermediate level: ASP.NET, JavaScript, AJAX.
-- Entry-level: JQuery, Laravel, AngularJS, ASP.NET MVC, React.
+- C#, Java, CSS, HTML, Bootstrap.
+- ASP.NET, JavaScript, AJAX.
+- JQuery, Laravel, AngularJS, ASP.NET MVC.
 - Database: Oracle, MS-SQL, MySQL
 - Version Control: GitHub
 - Project management software: Jira
