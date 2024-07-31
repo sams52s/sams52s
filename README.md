@@ -1,11 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Toufiqul Alam Sams</h1>
-<h3 align="center" style="color:#f7f5f2;">A passionate Backend developer from Bangladesh</h3>
-<p>CSE graduate who dreams of being a full-stack developer. <be>
-I'm a dedicated software developer known for my adaptability, reliability, and strong work ethic. With expertise in Java, Spring Boot, C#, and more, I thrive in high-pressure environments and consistently deliver efficient, clean code. My passion for learning drives me to improve and tackle new challenges continuously.
-
-My expertise spans multiple technologies, including Java, Spring Boot, C#, JavaScript, jQuery, HTML, CSS, and more. I believe in clean coding, adhering to best practices, and applying architecture and design patterns to create efficient and maintainable software. </br>
+<h3 align="center" style="color:#f7f5f2;">A passionate Software Engineer from Bangladesh</h3>
+<p>Working as a software Engineer since 2022 <be>
+I've become skilled in the art of developing high-quality, scalable web applications. My journey at DSi began with a significant internship that turned into a permanent role. I've contributed to significant projects like the Consilio Project, where I optimized a multi-tenant law agency management system. Transitioning to a Java-based project for a Freight Forwarding Company also manages server deployment and AWS migration, ensuring scalability and performance. Completing this project single-handedly showcased my ability to tackle complex tasks independently, while enhancing my technical and problem-solving skills. My strong communication skills ensure smooth client interactions and successful outcomes. I am always eager to learn and explore new technologies. </br>
 
 </p>
 <p style="color:#f08b11;">
@@ -18,30 +16,45 @@ My expertise spans multiple technologies, including Java, Spring Boot, C#, JavaS
 </p>
 <h1>PROFETIONAL WORK EXPERIANCE</h1>
 <p>
-    <h3> Consilio Sightline LegalHold </h3>
+    <h2> Freight Forwarding Company System </h2>
+    <h3> Jun 2023 – Present </h3>
+    <p> This is a Bangladeshi local project. 
+        <ul>
+            <li> Developed a robust system for a freight forwarding company using Java, Spring Boot, Hibernate, Thymeleaf, JavaScript, and jQuery.  </li>
+            <li> Optimized code and queries to significantly enhance system performance, scalability, and reduce CPU usage. </li>
+            <li> Managed server deployment and migration to AWS, ensuring seamless integration and scalability. </li>
+            <li> Maintained and monitored the system on a local server, ensuring minimal downtime and smooth operations. </li>
+            <li> Gained hands-on experience with Java, Spring Boot, and Thymeleaf, while enhancing leadership, communication, and client-handling skills through direct interactions.  </li>
+        </ul>
+        <h3> Achievements: </h3>
+        <ul>
+            <li> Improved system speed and efficiency, resulting in a more user-friendly and responsive application.   </li>
+            <li> Reduced CPU usage and optimized performance for high-frequency report generation.  </li>
+        </ul>
+    </p>
+    <h2> Consilio Sightline LegalHold </h2>
+    <h3> Jul 2022 – May 2023 </h3>
     <p>
         This is a USA-based project that offers multitenant service for multiple companies with a large number of user.
         <ul>
-            <li> I have worked as a junior Software Developer with an onshore team In Dhaka and an offshore team in the USA </li>
-            <li> Technologies C#, .Net, Microsoft SQL, JavaScript, jQuery, HTML, and CSS were used. </li>
-            <li> Gained expertise in clear coding, generics, C# best practices, layer architecture, and design patterns through mentorship from senior team members. </li>
+            <li>  Collaborated with onshore and offshore teams to develop a multi-tenant law agency management 
+ system using C#, .NET, Microsoft SQL, JavaScript, jQuery, HTML, and CSS. </li>
+            <li> Addressed bulk data management challenges, improving system performance and the user interface. </li>
+            <li> Gained proficiency in Git and Jira for version control and project management. </li>
+            <li> Enhanced skills in clear coding, C# best practices, layer architecture, and design patterns through 
+ senior mentorship. </li>
+            <li> Wrote comprehensive unit tests to ensure code quality and reliability. </li>
+            <li> Developed and maintained complex SQL queries and stored procedures, optimizing data management 
+ and system performance. </li>
+            <li> Successfully deployed the project across multiple Windows servers in collaboration with the team lead </li>
+        </ul>
+         <h3> Achievements: </h3>
+         <ul>
+            <li> Enhanced system speed and efficiency, delivering a faster and more reliable application. </li>
+            <li> Significantly improved the user experience and interface, making the system more intuitive and effective. </li>
         </ul>
     </p>
-    <h3> Freight Forwarding Company System </h3>
-    <p> This is a Bangladeshi local project. 
-        <ul>
-            <li> Continuously improving coding skills while learning Java, Spring Boot, and Thymeleaf in real-world development. </li>
-            <li> Contributing to the creation of a robust system aimed at optimizing operations. </li>
-        </ul>
-    </p>
-</p>
-<h1 style="color:#98dded;">🙋‍♂️  About Me</h1>
-<p>
-<ul>
-<li>Nationality: Bangladeshi </li>
-<li>Date of Birth: 8th October 2000</li>
-<li>Religion: Islam</li>
-</ul>
+    
 </p>
 
 - 🔭 I’m currently working on **Java**
@@ -78,12 +91,22 @@ My expertise spans multiple technologies, including Java, Spring Boot, C#, JavaS
 </ul>
 </p>
 
-## <h1 style="color:#98edc4;"> 🚀  Technical Skills:</h1> 
-- C#, Java, Bootstrap.
-- ASP.NET, SPRING BOOT, JavaScript, AJAX.
-- Database: MS-SQL, MySQL, PostgreSQL
+## <h1 style="color:#98edc4;"> 🚀 Technical Skills: </h1> 
+- Languages: Java, C#, JavaScript, HTML, CSS, SQL 
+- Frameworks and Tools: Spring Boot, Thymeleaf, Hibernate, jQuery, .NET 
+- Databases: Microsoft SQL Server, PostgreSQL 
+- Platforms: AWS, Linux 
+- Other Skills: Server deployment, performance optimization, leadership, client handling
 - Version Control: GitHub
 - Project management software: Jira
+## <h1 style="color:#98edc4;"> 👨‍💻 Certifications and Training: </h1> 
+- Working on AWS DVA-CO2 (not yet certified) 
+## <h1 style="color:#98edc4;"> 👨‍💻 Professional Affiliations: </h1> 
+- Dev Skill: Completed C# course
+## <h1 style="color:#98edc4;"> 🌱 Interests: </h1> 
+- Reading technical books (Spring in Action, Modern Java in Action, Clean Code, etc.) 
+- Learning new technologies (AWS)
+- Researching computational graph theory 
 <p align="left"> 
 
 <p align="left">  
