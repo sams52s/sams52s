@@ -56,7 +56,7 @@ I've become skilled in the art of developing high-quality, scalable web applicat
     </p>
     
 </p>
-
+<p>
 - 🔭 I’m currently working on **Java**
 
 - 🌱 I’m currently learning **JAVA,SPRING_BOOT**
@@ -66,6 +66,7 @@ I've become skilled in the art of developing high-quality, scalable web applicat
 - 💬 Ask me about **C#,JAVA**
 
 - 📫 How to reach me **t101alam52@gmail.com**
+</p>
 
 ## <h1 style="color:#98edc4;"> Interested at:</h1> 
 - Problem-solving.
@@ -91,6 +92,7 @@ I've become skilled in the art of developing high-quality, scalable web applicat
 </ul>
 </p>
 
+<p>
 ## <h1 style="color:#98edc4;"> 🚀 Technical Skills: </h1> 
 - Languages: Java, C#, JavaScript, HTML, CSS, SQL 
 - Frameworks and Tools: Spring Boot, Thymeleaf, Hibernate, jQuery, .NET 
@@ -106,7 +108,8 @@ I've become skilled in the art of developing high-quality, scalable web applicat
 ## <h1 style="color:#98edc4;"> 🌱 Interests: </h1> 
 - Reading technical books (Spring in Action, Modern Java in Action, Clean Code, etc.) 
 - Learning new technologies (AWS)
-- Researching computational graph theory 
+- Researching computational graph theory
+</p>
 <p align="left"> 
 
 <p align="left">  
