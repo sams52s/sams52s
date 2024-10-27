@@ -2,17 +2,40 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Toufiqul Alam Sams</h1>
 <h3 align="center" style="color:#f7f5f2;">A passionate Software Engineer from Bangladesh</h3>
-<p>Working as a software Engineer since 2022 <be>
-I've become skilled in the art of developing high-quality, scalable web applications. My journey at DSi began with a significant internship that turned into a permanent role. I've contributed to significant projects like the Consilio Project, where I optimized a multi-tenant law agency management system. Transitioning to a Java-based project for a Freight Forwarding Company also manages server deployment and AWS migration, ensuring scalability and performance. Completing this project single-handedly showcased my ability to tackle complex tasks independently, while enhancing my technical and problem-solving skills. My strong communication skills ensure smooth client interactions and successful outcomes. I am always eager to learn and explore new technologies. </br>
+
+<p>Software Engineer | 2022 – Present<be> 
+My career has been defined by a commitment to learning, leadership, and solving real-world challenges.
+
+<h3>Professional Experience</h3> 
+As an Assistant Software Engineer at Dynamic Solution Innovators Ltd., I work with technologies like Java, Spring Boot, AWS, and PostgreSQL, contributing to full-stack development, cloud integration, and system optimization. Over the past two years, I've delivered high-quality, scalable software under tight deadlines, managing tasks from server deployment to client interactions.
+
+<h3>Key achievements include</h3>
+- Optimizing a freight forwarding system, enhancing performance by 30%.
+- Leading an AWS migration for a corporate client, reducing costs by 20%.
+- Independently developing and deploying a Java-based project for six months, managing end-to-end development.
+
+<h3>Leadership & Teamwork</h3>
+In addition to my technical role, I’ve mentored junior developers, led small teams, and ensured client satisfaction by fostering a collaborative environment and addressing complex technical issues with ownership.
+
+<h3>Academic & Research Background</h3>
+Currently pursuing a Master’s in Computer Science at BRAC University, my academic journey has been enriching. My undergraduate studies in Computer Science and Engineering at AIUB laid a strong foundation, which I am building upon with a thesis focused on satellite imagery analysis—leveraging data science and computer vision to drive impactful research.
+
+<h3>Vision</h3>
+I am driven by the desire to create meaningful contributions, whether through innovative software, insightful research, or effective leadership. Always ready for the next challenge, I aim to push the boundaries of what’s possible.
+</br>
 
 </p>
+<h1>MAIN ACTIVITIES AND RESPONSIBILITIES</h1>
 <p style="color:#f08b11;">
-•	Goal-oriented individual with a pleasant personality.</br>
-•	problem-solving skills and a hard-working mentality. </br>
-•	Able to adapt to any environment quickly. </br>
-•	Ability to attain new skills and technology quickly. </br>
-•	Self-confident and self-motivated. </br>
-•	Quick Learner.</br>
+- Developing, deploying, and maintaining scalable software solutions
+- Managing server deployment and performance optimization
+- Overseeing database migration and cloud server management
+- Collaborating with clients and stakeholders to meet project requirements
+- Coaching and supporting junior team members
+- Conducting code reviews and ensuring code quality
+- Leading Agile sprints and coordinating with cross-functional teams
+-Documenting technical processes and creating user documentation
+- Researching and implementing new technologies for project improvements</br>
 </p>
 <h1>PROFETIONAL WORK EXPERIANCE</h1>
 <p>
