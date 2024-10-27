@@ -8,18 +8,8 @@ My career has been defined by a commitment to learning, leadership, and solving 
 <h3>Professional Experience</h3> 
 As an Assistant Software Engineer at Dynamic Solution Innovators Ltd., I work with technologies like Java, Spring Boot, AWS, and PostgreSQL, contributing to full-stack development, cloud integration, and system optimization. Over the past two years, I've delivered high-quality, scalable software under tight deadlines, managing tasks from server deployment to client interactions.
 
-<h3>Key achievements include</h3>
- <ul>
-<li> Optimizing a freight forwarding system, enhancing performance by 30%. </li>
-<li> Leading an AWS migration for a corporate client, reducing costs by 20%. </li>
-<li> Independently developing and deploying a Java-based project for six months, managing end-to-end development. </li>
- </ul>
-
 <h3>Leadership & Teamwork</h3>
 In addition to my technical role, I’ve mentored junior developers, led small teams, and ensured client satisfaction by fostering a collaborative environment and addressing complex technical issues with ownership.
-
-<h3>Academic & Research Background</h3>
-Currently pursuing a Master’s in Computer Science at BRAC University, my academic journey has been enriching. My undergraduate studies in Computer Science and Engineering at AIUB laid a strong foundation, which I am building upon with a thesis focused on satellite imagery analysis—leveraging data science and computer vision to drive impactful research.
 
 <h3>Vision</h3>
 I am driven by the desire to create meaningful contributions, whether through innovative software, insightful research, or effective leadership. Always ready for the next challenge, I aim to push the boundaries of what’s possible.
