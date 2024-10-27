@@ -98,7 +98,7 @@ I am driven by the desire to create meaningful contributions, whether through in
 </ul>
 </p>
 
-## <h1 style="color:#98edc4;"> 🚀 Technical Skills: </h1> 
+<h1 style="color:#98edc4;"> 🚀 Technical Skills: </h1> 
 <ul>
 <li> Languages: Java, C#, JavaScript </li>
 <li> Frameworks: Spring Boot, .NET, Hibernate, Thymeleaf, jQuery </li>
@@ -109,14 +109,14 @@ I am driven by the desire to create meaningful contributions, whether through in
 <li> Project Management: Agile, Jira </li>
 <li> Leadership: Team mentorship, client engagement, adaptable under pressure </li>
 </ul>
-## <h1 style="color:#98edc4;"> 👨‍💻 Certifications and Training: </h1> 
-- Working on AWS DVA-CO2 (not yet certified) 
-## <h1 style="color:#98edc4;"> 👨‍💻 Professional Affiliations: </h1> 
-- Dev Skill: Completed C# course
-## <h1 style="color:#98edc4;"> 🌱 Interests: </h1> 
-- Reading technical books
-- Learning new technologies
-
+<h1 style="color:#98edc4;"> 👨‍💻 Certifications and Training: </h1> 
+• Working on AWS DVA-CO2 (not yet certified) 
+<h1 style="color:#98edc4;"> 👨‍💻 Professional Affiliations: </h1> 
+• Dev Skill: Completed C# course
+<h1 style="color:#98edc4;"> 🌱 Interests: </h1> 
+• Reading technical books <br>    
+• Learning new technologies <br>
+<br>
 <p align="left"> 
 
 <p align="left">  
