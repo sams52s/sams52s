@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Toufiqul Alam Sams</h1>
 <h3 align="center" style="color:#f7f5f2;">A passionate Software Engineer from Bangladesh</h3>
-
-<p>Software Engineer | 2022 – Present<be> 
+<p>Software Engineer (L-2)| 2022 – Present<br> 
 My career has been defined by a commitment to learning, leadership, and solving real-world challenges.
 
 <h3>Professional Experience</h3> 
