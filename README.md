@@ -2,16 +2,18 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Toufiqul Alam Sams</h1>
 <h3 align="center" style="color:#f7f5f2;">A passionate Software Engineer from Bangladesh</h3>
-<p>Software Engineer (L-2)| 2022 – Present<br> 
+<p>Software Engineer| 2022 – Present<br> 
 My career has been defined by a commitment to learning, leadership, and solving real-world challenges.
 
 <h3>Professional Experience</h3> 
 As an Assistant Software Engineer at Dynamic Solution Innovators Ltd., I work with technologies like Java, Spring Boot, AWS, and PostgreSQL, contributing to full-stack development, cloud integration, and system optimization. Over the past two years, I've delivered high-quality, scalable software under tight deadlines, managing tasks from server deployment to client interactions.
 
 <h3>Key achievements include</h3>
-- Optimizing a freight forwarding system, enhancing performance by 30%.
-- Leading an AWS migration for a corporate client, reducing costs by 20%.
-- Independently developing and deploying a Java-based project for six months, managing end-to-end development.
+ <ul>
+<li> Optimizing a freight forwarding system, enhancing performance by 30%. </li>
+<li> Leading an AWS migration for a corporate client, reducing costs by 20%. </li>
+<li> Independently developing and deploying a Java-based project for six months, managing end-to-end development. </li>
+ </ul>
 
 <h3>Leadership & Teamwork</h3>
 In addition to my technical role, I’ve mentored junior developers, led small teams, and ensured client satisfaction by fostering a collaborative environment and addressing complex technical issues with ownership.
@@ -26,15 +28,18 @@ I am driven by the desire to create meaningful contributions, whether through in
 </p>
 <h1>MAIN ACTIVITIES AND RESPONSIBILITIES</h1>
 <p style="color:#f08b11;">
-- Developing, deploying, and maintaining scalable software solutions
-- Managing server deployment and performance optimization
-- Overseeing database migration and cloud server management
-- Collaborating with clients and stakeholders to meet project requirements
-- Coaching and supporting junior team members
-- Conducting code reviews and ensuring code quality
-- Leading Agile sprints and coordinating with cross-functional teams
--Documenting technical processes and creating user documentation
-- Researching and implementing new technologies for project improvements</br>
+    <ul>
+ <li> Developing, deploying, and maintaining scalable software solutions </li>
+ <li> Managing server deployment and performance optimization </li>
+ <li> Overseeing database migration and cloud server management </li>
+ <li> Collaborating with clients and stakeholders to meet project requirements </li>
+ <li> Coaching and supporting junior team members </li>
+ <li> Conducting code reviews and ensuring code quality </li>
+ <li> Leading Agile sprints and coordinating with cross-functional teams </li>
+ <li> Documenting technical processes and creating user documentation </li>
+ <li> Researching and implementing new technologies for project improvements </li>
+    </ul>
+    </br>
 </p>
 <h1>PROFETIONAL WORK EXPERIANCE</h1>
 <p>
@@ -104,21 +109,23 @@ I am driven by the desire to create meaningful contributions, whether through in
 </p>
 
 ## <h1 style="color:#98edc4;"> 🚀 Technical Skills: </h1> 
-- Languages: Java, C#, JavaScript, HTML, CSS, SQL 
-- Frameworks and Tools: Spring Boot, Thymeleaf, Hibernate, jQuery, .NET 
-- Databases: Microsoft SQL Server, PostgreSQL 
-- Platforms: AWS, Linux 
-- Other Skills: Server deployment, performance optimization, leadership, client handling
-- Version Control: GitHub
-- Project management software: Jira
+<ul>
+<li> Languages: Java, C#, JavaScript </li>
+<li> Frameworks: Spring Boot, .NET, Hibernate, Thymeleaf, jQuery </li>
+<li> Databases: Microsoft SQL Server, PostgreSQL </li>
+<li> Cloud & Platforms: AWS, Linux </li>
+<li> Development: Server deployment, performance tuning </li>
+<li> Version Control: Git, GitHub </li>
+<li> Project Management: Agile, Jira </li>
+<li> Leadership: Team mentorship, client engagement, adaptable under pressure </li>
+</ul>
 ## <h1 style="color:#98edc4;"> 👨‍💻 Certifications and Training: </h1> 
 - Working on AWS DVA-CO2 (not yet certified) 
 ## <h1 style="color:#98edc4;"> 👨‍💻 Professional Affiliations: </h1> 
 - Dev Skill: Completed C# course
 ## <h1 style="color:#98edc4;"> 🌱 Interests: </h1> 
-- Reading technical books (Spring in Action, Modern Java in Action, Clean Code, etc.) 
-- Learning new technologies (AWS)
-- Researching computational graph theory
+- Reading technical books
+- Learning new technologies
 
 <p align="left"> 
 
