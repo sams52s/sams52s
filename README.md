@@ -50,7 +50,7 @@ I am driven by the desire to create meaningful contributions, whether through in
         </ul>
     </p>
     <h2> Consilio Sightline LegalHold </h2>
-    <h3> Jul 2022 – May 2023 </h3>
+    <h3> April 2022 – May 2023 </h3>
     <p>
         This is a USA-based project that offers multitenant service for multiple companies with a large number of user.
         <ul>
