@@ -8,7 +8,8 @@
 
 ---
 
-**Full-Stack Software Engineer | Java & Spring Boot | Open to Opportunities**
+**Full-Stack Software Engineer | Java & Spring Boot | Open to Opportunities** 
+
 
 I’m a passionate software engineer from **Dhaka, Bangladesh**, with over **3 years of professional experience** in building scalable, enterprise-grade web applications using **Java, Spring Boot, C#, .NET, PostgreSQL, and AWS**. I love turning real-world problems into efficient and secure digital solutions.
 
@@ -42,6 +43,10 @@ Currently working as an **Assistant Software Engineer** at [Dynamic Solution Inn
 - Developed scalable architecture and reusable modules; contributed 1,200+ code comments.
 
 ---
+### 🛠️ Notable Projects
+🔹 [FeedBloom – Feedback Management System](https://github.com/sams52s/Dynamic_Feedback_MS)
+> A full-stack, role-based platform for collecting and managing internal team feedback, issue reporting, and feature requests.
+Built with Java, Spring Boot, PostgreSQL, Thymeleaf, and AJAX,
 
 ### 📈 GitHub Stats
 <a href="https://github.com/sams52s">
@@ -61,23 +66,15 @@ Currently working as an **Assistant Software Engineer** at [Dynamic Solution Inn
 ---
 ### 🌱 Goals for 2025
 
-🚀 Master advanced system design concepts and apply them to real-world, scalable applications.
-
-📘 Strengthen data structures & algorithms through consistent LeetCode and problem-solving practice.
-
-☁️ Earn AWS Solutions Architect – Associate certification to deepen cloud architecture skills.
-
-🧪 Build and publish secure, production-ready REST APIs with full CI/CD, testing, and documentation.
-
-🧱 Contribute to open-source Java/Spring projects, including bug fixes, enhancements, or new modules.
-
-📊 Learn Docker, Kubernetes, and Spring Cloud for better containerization and microservices management.
-
-🤝 Collaborate with global teams on remote, contract-based or open-source projects in Web3/Fintech domains.
-
-📷 Explore image processing and AI through academic research and personal experiments.
-
-✍️ Start technical blogging to share knowledge about Java, Spring Security, and real-world software architecture.
+- [ ] 🚀 Master advanced system design concepts and apply them to real-world, scalable applications.
+- [ ] 📘 Strengthen data structures & algorithms through consistent LeetCode and problem-solving practice.
+- [ ] ☁️ Earn AWS Solutions Architect – Associate certification to deepen cloud architecture skills.
+- [ ] 🧪 Build and publish secure, production-ready REST APIs with full CI/CD, testing, and documentation.
+- [ ] 🧱 Contribute to open-source Java/Spring projects, including bug fixes, enhancements, or new modules.
+- [ ] 📊 Learn Docker, Kubernetes, and Spring Cloud for better containerization and microservices management.
+- [ ] 🤝 Collaborate with global teams on remote, contract-based or open-source projects in Web3/Fintech domains.
+- [ ] 📷 Explore image processing and AI through academic research and personal experiments.
+- [ ] ✍️ Start technical blogging to share knowledge about Java, Spring Security, and real-world software architecture.
 
 ### 📫 How to Reach Me
 - 📧 Email: toufiqul.sams@gmail.com
@@ -85,6 +82,9 @@ Currently working as an **Assistant Software Engineer** at [Dynamic Solution Inn
 - 💬 LinkedIn: [linkedin.com/in/toufiqul-alam-sams-8a771518a](https://linkedin.com/in/toufiqul-alam-sams-8a771518a)
 
 ---
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=sams52s&color=blue&style=flat-square)
 <a href="https://github.com/sams52s?tab=followers"><img src="https://img.shields.io/github/followers/sams52s?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/sams52s?tab=followers"><img src="https://img.shields.io/github/watchers/sams52s/sams52s?style=social" alt="GitHub Badge"></a>
 
