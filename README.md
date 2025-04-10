@@ -54,10 +54,9 @@ Currently working as an **Assistant Software Engineer** at [Dynamic Solution Inn
 ---
 
 ### 💬 Ask Me About
-- Java, Spring Boot, OAuth2 & JWT
+- Java, Spring Boot
 - Clean architecture and backend performance
-- SQL tuning and system design
-- Cloud deployment on AWS
+- SQL tuning
 
 ---
 ### 🌱 Goals for 2025
