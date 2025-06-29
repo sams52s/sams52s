@@ -67,14 +67,16 @@ Built with Java, Spring Boot, PostgreSQL, Thymeleaf, and AJAX,
 ### 🌱 Goals for 2025
 
 - [ ] 🚀 Master advanced system design concepts and apply them to real-world, scalable applications.
-- [ ] 📘 Strengthen data structures & algorithms through consistent LeetCode and problem-solving practice.
+- [x] 📘 Strengthen data structures & algorithms through consistent LeetCode and problem-solving practice.
 - [ ] ☁️ Earn AWS Solutions Architect – Associate certification to deepen cloud architecture skills.
-- [ ] 🧪 Build and publish secure, production-ready REST APIs with full CI/CD, testing, and documentation.
+- [x] 🧪 Build and publish secure, production-ready REST APIs with full CI/CD, testing, and documentation.
 - [ ] 🧱 Contribute to open-source Java/Spring projects, including bug fixes, enhancements, or new modules.
+- [ ] 🗄️ Strengthen database expertise: dive deeper into MySQL, PostgreSQL, Cassandra, Kafka, Elasticsearch, and NoSQL systems.
+- [ ] 🎓 Pursue DBA-focused certifications and hands-on experience in database administration, performance tuning, and large-scale data operations.
 - [ ] 📊 Learn Docker, Kubernetes, and Spring Cloud for better containerization and microservices management.
 - [ ] 🤝 Collaborate with global teams on remote, contract-based or open-source projects in Web3/Fintech domains.
-- [ ] 📷 Explore image processing and AI through academic research and personal experiments.
-- [ ] ✍️ Start technical blogging to share knowledge about Java, Spring Security, and real-world software architecture.
+- [x] 📷 Explore image processing and AI through academic research and personal experiments.
+- [x] ✍️ Start technical blogging to share knowledge about Java, Spring Security, and real-world software architecture.
 
 ### 📫 How to Reach Me
 - 📧 Email: toufiqul.sams@gmail.com
