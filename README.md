@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/static/v1?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://linkedin.com/in/toufiqul-alam-sams-8a771518a)
 [![GitHub](https://img.shields.io/static/v1?color=black&label=GitHub&logo=github&logoColor=white&style=for-the-badge&message=Follow)](https://github.com/sams52s)
 [![Email](https://img.shields.io/static/v1?color=red&label=Email&logo=gmail&logoColor=white&style=for-the-badge&message=Mail)](mailto:toufiqul.sams@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1km28dIwIa3VaJEZ09S9SE5WdUfMsR27g/view?usp=sharing)
 
 ---
 
@@ -67,14 +66,14 @@ Built with Java, Spring Boot, PostgreSQL, Thymeleaf, and AJAX,
 ---
 ### 🌱 Goals for 2025
 
-- [ ] 🚀 Master advanced system design concepts and apply them to real-world, scalable applications.
+- [x] 🚀 Master advanced system design concepts and apply them to real-world, scalable applications.
 - [x] 📘 Strengthen data structures & algorithms through consistent LeetCode and problem-solving practice.
 - [ ] ☁️ Earn AWS Solutions Architect – Associate certification to deepen cloud architecture skills.
 - [x] 🧪 Build and publish secure, production-ready REST APIs with full CI/CD, testing, and documentation.
 - [ ] 🧱 Contribute to open-source Java/Spring projects, including bug fixes, enhancements, or new modules.
-- [ ] 🗄️ Strengthen database expertise: dive deeper into MySQL, PostgreSQL, Cassandra, Kafka, Elasticsearch, and NoSQL systems.
+- [x] 🗄️ Strengthen database expertise: dive deeper into MySQL, PostgreSQL, Cassandra, Kafka, Elasticsearch, and NoSQL systems.
 - [ ] 🎓 Pursue DBA-focused certifications and hands-on experience in database administration, performance tuning, and large-scale data operations.
-- [ ] 📊 Learn Docker, Kubernetes, and Spring Cloud for better containerization and microservices management.
+- [x] 📊 Learn Docker, Kubernetes, and Spring Cloud for better containerization and microservices management.
 - [ ] 🤝 Collaborate with global teams on remote, contract-based or open-source projects in Web3/Fintech domains.
 - [x] 📷 Explore image processing and AI through academic research and personal experiments.
 - [x] ✍️ Start technical blogging to share knowledge about Java, Spring Security, and real-world software architecture.
@@ -83,6 +82,7 @@ Built with Java, Spring Boot, PostgreSQL, Thymeleaf, and AJAX,
 - 📧 Email: toufiqul.sams@gmail.com
 - 🌍 Portfolio & Docs: [GitHub Profile](https://github.com/sams52s)
 - 💬 LinkedIn: [linkedin.com/in/toufiqul-alam-sams-8a771518a](https://linkedin.com/in/toufiqul-alam-sams-8a771518a)
+- 📄 Resume: [CV](https://drive.google.com/file/d/1km28dIwIa3VaJEZ09S9SE5WdUfMsR27g/view?usp=sharing)
 
 ---
 
