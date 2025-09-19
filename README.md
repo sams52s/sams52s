@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://linkedin.com/in/toufiqul-alam-sams-8a771518a)
 [![GitHub](https://img.shields.io/static/v1?color=black&label=GitHub&logo=github&logoColor=white&style=for-the-badge&message=Follow)](https://github.com/sams52s)
 [![Email](https://img.shields.io/static/v1?color=red&label=Email&logo=gmail&logoColor=white&style=for-the-badge&message=Mail)](mailto:toufiqul.sams@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)]([https://drive.google.com/file/d/1km28dIwIa3VaJEZ09S9SE5WdUfMsR27g/view?usp=sharing](https://drive.google.com/file/d/1km28dIwIa3VaJEZ09S9SE5WdUfMsR27g/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1km28dIwIa3VaJEZ09S9SE5WdUfMsR27g/view?usp=sharing)
 
 ---
 
