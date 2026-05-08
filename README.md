@@ -126,6 +126,13 @@ Experiments, workflows, and structured prompt engineering approaches for modern 
 
 ---
 
+### Coding Interview Preparation Plan
+5-Week Java Interview Prep: Core Java, DSA, Spring Boot, System Design, APIs, Mock Interviews | Study Plan + Resources
+
+🔗 https://github.com/sams52s/Coding-Interview-Preparation-Plan
+
+---
+
 ## GitHub Stats
 
 <p align="center">
