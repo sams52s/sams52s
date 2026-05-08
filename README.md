@@ -43,7 +43,7 @@ Java • Spring Boot • Distributed APIs • Prompt Engineering • AI Automati
 | Category | Technologies |
 |---|---|
 | Backend | Java, Spring Boot, Hibernate, REST APIs |
-| AI & Modern Workflows | Prompt Engineering, LLM Workflows, AI Automation, RAG Systems |
+| AI & Intelligent Systems | Prompt Engineering, LLM Workflows, AI Automation, RAG Systems |
 | Databases | PostgreSQL, MySQL, SQL Server |
 | Cloud & Infrastructure | AWS EC2/RDS, Docker, Nginx |
 | Engineering Tools | Git, GitHub, Jira, JasperReports |
@@ -52,7 +52,7 @@ Java • Spring Boot • Distributed APIs • Prompt Engineering • AI Automati
 
 ## Experience Snapshot
 
-### Banglalink — Software Developer
+### Banglalink — Application Developer
 - API Gateway engineering
 - Telecom backend services
 - Distributed API workflows
@@ -68,13 +68,23 @@ Java • Spring Boot • Distributed APIs • Prompt Engineering • AI Automati
 
 ---
 
+## Engineering Interests
+
+- AI-driven software systems
+- Backend architecture and scalability
+- Distributed APIs and workflow systems
+- Prompt orchestration and AI automation
+- Enterprise reliability and production engineering
+
+---
+
 ## Current Focus
 
-- AI-assisted software systems
-- Prompt-driven workflows
-- Backend architecture for scalable systems
-- Enterprise API platforms
-- LLM-integrated tooling and automation
+- AI-assisted software workflows
+- Enterprise backend systems
+- Distributed API platforms
+- Prompt orchestration patterns
+- Scalable architecture and automation
 
 ---
 
@@ -89,21 +99,30 @@ Enterprise-style feedback management platform with role-based workflows, JWT aut
 
 ---
 
-### Documentation Repository
-Structured backend engineering, Java, and software architecture documentation.
+### AI Driven Software Solutions
+AI-driven backend workflows, automation systems, and enterprise software solution concepts.
 
-**Tech:** Java, Spring Boot, SQL, System Design
+**Tech:** AI Workflows, Backend Engineering, Automation
 
-🔗 https://github.com/sams52s/Documentation
+🔗 https://github.com/sams52s/ai-driven-software-solutions
 
 ---
 
-### Mastering Large Language Models
-Ongoing exploration of LLM workflows, AI-assisted engineering, and modern AI systems.
+### Enterprise Backend Patterns
+Architecture patterns, backend engineering concepts, distributed APIs, and scalable system design notes.
 
-**Tech:** AI Workflows, LLM Concepts
+**Tech:** Java, Spring Boot, Distributed Systems
 
-🔗 https://github.com/sams52s/mastering-large-language-models
+🔗 https://github.com/sams52s/enterprise-backend-patterns
+
+---
+
+### Prompt Engineering Lab
+Experiments, workflows, and structured prompt engineering approaches for modern AI systems.
+
+**Tech:** Prompt Engineering, LLM Workflows, AI Systems
+
+🔗 https://github.com/sams52s/prompt-engineering-lab
 
 ---
 
@@ -124,10 +143,13 @@ Ongoing exploration of LLM workflows, AI-assisted engineering, and modern AI sys
 - LinkedIn: https://linkedin.com/in/toufiqul-alam-sams-8a771518a
 - GitHub: https://github.com/sams52s
 - Email: toufiqul.sams@gmail.com
-- WhatsApp: +8801750096696
 
 <!-- Future Portfolio Website -->
 <!-- https://your-website-link.com -->
+
+---
+
+> Building practical software systems with modern AI workflows and scalable backend engineering.
 
 ---
 
